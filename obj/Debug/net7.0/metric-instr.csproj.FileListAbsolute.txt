@@ -1,0 +1,15 @@
+C:\temp\poc-metrics\metric-instr\bin\Debug\net7.0\metric-instr.exe
+C:\temp\poc-metrics\metric-instr\bin\Debug\net7.0\metric-instr.deps.json
+C:\temp\poc-metrics\metric-instr\bin\Debug\net7.0\metric-instr.runtimeconfig.json
+C:\temp\poc-metrics\metric-instr\bin\Debug\net7.0\metric-instr.dll
+C:\temp\poc-metrics\metric-instr\bin\Debug\net7.0\metric-instr.pdb
+C:\temp\poc-metrics\metric-instr\obj\Debug\net7.0\metric-instr.csproj.AssemblyReference.cache
+C:\temp\poc-metrics\metric-instr\obj\Debug\net7.0\metric-instr.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\poc-metrics\metric-instr\obj\Debug\net7.0\metric-instr.AssemblyInfoInputs.cache
+C:\temp\poc-metrics\metric-instr\obj\Debug\net7.0\metric-instr.AssemblyInfo.cs
+C:\temp\poc-metrics\metric-instr\obj\Debug\net7.0\metric-instr.csproj.CoreCompileInputs.cache
+C:\temp\poc-metrics\metric-instr\obj\Debug\net7.0\metric-instr.dll
+C:\temp\poc-metrics\metric-instr\obj\Debug\net7.0\refint\metric-instr.dll
+C:\temp\poc-metrics\metric-instr\obj\Debug\net7.0\metric-instr.pdb
+C:\temp\poc-metrics\metric-instr\obj\Debug\net7.0\metric-instr.genruntimeconfig.cache
+C:\temp\poc-metrics\metric-instr\obj\Debug\net7.0\ref\metric-instr.dll

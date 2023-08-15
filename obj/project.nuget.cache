@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zNF/BlX1Lm39xkuzmch4VoNPktBhvnjVbIFDqCNIH0jdn2Lien/Ht6mGNlyzFBdN8CQ8nx/wWgJxl5So6DTLBw==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\poc-metrics\\metric-instr\\metric-instr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tutto\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
